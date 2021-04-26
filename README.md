@@ -6,9 +6,7 @@
 </p>
 
 I am a Embedded Software Engineer...
- 
-🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
+
 💬 Ask me about Embedded Software, Continuous Integration or of course any Tech-related stuff.
 
 ![Profile views](https://gpvc.arturio.dev/alflinusjonsson)
@@ -16,10 +14,7 @@ I am a Embedded Software Engineer...
 ---
 
 ### Tech & Tools Preference
-	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-
-          
-         
+    
 ### Other Languages I know
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
