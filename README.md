@@ -9,8 +9,7 @@ I am a Embedded Software Engineer...
 
 💬 Ask me about Embedded Software, Continuous Integration or of course any Tech-related stuff.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
+ 
 ![Profile views](https://gpvc.arturio.dev/alflinusjonsson)
 
 ---
