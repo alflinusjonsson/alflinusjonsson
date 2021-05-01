@@ -9,9 +9,6 @@ I am a Embedded Software Engineer...
 
 💬 Ask me about Embedded Software, Continuous Integration or of course any Tech-related stuff.
 
- 
-![Profile views](https://gpvc.arturio.dev/alflinusjonsson)
-
 ---
 
 ### Tech & Tools Preference
@@ -29,3 +26,5 @@ I am a Embedded Software Engineer...
 Let's connect 👨‍💻 and forge the future together.😁✌
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 --> https://www.linkedin.com/in/alflinusjonsson/
+
+![Profile views](https://gpvc.arturio.dev/alflinusjonsson)
