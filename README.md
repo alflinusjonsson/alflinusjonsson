@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <img src="" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/alflinusjonsson/alflinusjonsson/blob/main/1.png" width="100%">
 </p>
 
 I am a Embedded Software Engineer...
