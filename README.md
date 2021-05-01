@@ -24,5 +24,11 @@ I am a Embedded Software Engineer...
 ---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
+  <a href="https://in.linkedin.com/in/alflinusjonsson">
+    <img align="left" alt="Linus Jönsson | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:alflinusjonsson@gmail.com">
+    <img align="left" alt="Linus Jönsson | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 
 ![Profile views](https://gpvc.arturio.dev/alflinusjonsson)
