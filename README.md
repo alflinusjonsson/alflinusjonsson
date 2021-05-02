@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/alflinusjonsson/alflinusjonsson/blob/main/LINUS%20J%C3%96NSSON.png" width="100%">
+  <img src="">
 </p>
 
 I am a Embedded Software Engineer...
