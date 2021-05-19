@@ -7,7 +7,7 @@
 
 I am a Embedded Software Engineer...
 
-💬 Ask me about Embedded Software, Continuous Integration or of course any Tech-related stuff.
+💬 ...
 
 ---
 
